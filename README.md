@@ -1,7 +1,8 @@
-📊 Zewail City University Interactive Sales Dashboard
+**📊 Zewail City University Interactive Sales Dashboard**
 An interactive and dynamic dashboard developed using Python, Flask, Pandas, Matplotlib, Seaborn, and Plotly, designed to visualize and analyze university sales and enrollment data. The dashboard supports drill-down analysis, tracks various student metrics, and presents key insights for decision-makers.
 
 🚀 Features
+
 ✅ Data loading and cleaning using Pandas
 
 ✅ SQLite database integration using SQLAlchemy
